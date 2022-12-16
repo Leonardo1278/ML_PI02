@@ -26,6 +26,6 @@ El proyecto tiene 4 carpetas principales:
 
 2. Leonardo1278.csv - contiene únicamente las predicciones hechas en el archivo 'DataTestF.csv'
 
-3. DataTestF.csv - contiene una copia del DataFrame dataTest generado dentro del programa, en el cual ya se realizó un EDA & Feature Engeenering y se codificaron los datos para el uso de Random Forest 
+3. DataTestF.csv - contiene una copia del DataFrame dataTest generado dentro del programa, en el cual ya se realizó un EDA & Feature Engineering y se codificaron los datos para el uso de Random Forest 
 
-4. DataTrainF.csv - contiene una copia del DataFrame dataTrain generado dentro del programa, en el cual ya se realizó un EDA & Feature Engeenering y se codificaron los datos para el uso de Random Forest # ML_PI02
+4. DataTrainF.csv - contiene una copia del DataFrame dataTrain generado dentro del programa, en el cual ya se realizó un EDA & Feature Engineering y se codificaron los datos para el uso de Random Forest # ML_PI02
