@@ -13,7 +13,7 @@ Este proyecto ocupa las tecnologías disponibles en python, para poder generar u
 ## **Propuesta de trabajo**
 
 El proyecto consiste en la ingesta de información que hace referencia a la base de datos de un hospital, dándonos los registros de las citas de cada uno de los pacientes del hospital.
-Posteriormente se realiza un EDA y feature engeenering para poder generar una predicción en base a ellos.
+Posteriormente se realiza un EDA y Feature Engineering para poder generar una predicción en base a ellos.
 
 ## **Tecnologías usadas**
 <img src="https://th.bing.com/th/id/OIP.fbVr5gXeIrChfkbOU_S3vgAAAA?pid=ImgDet&rs=1" style="width: 3vw; min-width: 100px;" /><img src="https://th.bing.com/th/id/R.09ba0105b3bc11dac5b7c09443812189?rik=7UmhMl5FciECwQ&riu=http%3a%2f%2famueller.github.io%2fsklearn_014_015_pydata%2fsklearn-logo.png&ehk=%2fdoHlCDrKDgQK%2bMOem6eU3lvCRQHqQrt9J%2f3veiO1Pw%3d&risl=&pid=ImgRaw&r=0" style="width: 3vw; min-width: 100px;" /> <img src="https://th.bing.com/th/id/OIP.p9U41JwQ1DIfoRou4qIJvAHaC_?pid=ImgDet&rs=1" style="width: 5vw; min-width: 120px;" />
