@@ -28,4 +28,4 @@ El proyecto tiene 4 carpetas principales:
 
 3. DataTestF.csv - contiene una copia del DataFrame dataTest generado dentro del programa, en el cual ya se realizó un EDA & Feature Engeenering y se codificaron los datos para el uso de Random Forest 
 
-4. DataTrainF.csv - contiene una copia del DataFrame dataTrain generado dentro del programa, en el cual ya se realizó un EDA & Feature Engeenering y se codificaron los datos para el uso de Random Forest 
+4. DataTrainF.csv - contiene una copia del DataFrame dataTrain generado dentro del programa, en el cual ya se realizó un EDA & Feature Engeenering y se codificaron los datos para el uso de Random Forest # ML_PI02
