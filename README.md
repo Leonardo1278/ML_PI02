@@ -32,4 +32,4 @@ El proyecto tiene 6 carpetas principales:
 
 5. PipelineRF.pkl - Contiene un modelo Random Forest entrenado con nuestro set de testeo
 
-6. PipelineTree - Contiene un modelo Decision Tree entrenado con nuestro set de testeo
+6. PipelineTree.pkl - Contiene un modelo Decision Tree entrenado con nuestro set de testeo
