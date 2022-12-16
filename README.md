@@ -20,12 +20,16 @@ Posteriormente se realiza un EDA y Feature Engineering para poder generar una pr
 
 ## **Estructura del proyecto**
 
-El proyecto tiene 4 carpetas principales: 
+El proyecto tiene 6 carpetas principales: 
 
-1. PI02_H.ipynb - contiene el código de Machine Learning para predecir si los pacientes de un hospital tendrán una estancia larga o no.
+1. PI02.ipynb - contiene el código de Machine Learning para predecir si los pacientes de un hospital tendrán una estancia larga o no.
 
 2. Leonardo1278.csv - contiene únicamente las predicciones hechas en el archivo 'DataTestF.csv'
 
 3. DataTestF.csv - contiene una copia del DataFrame dataTest generado dentro del programa, en el cual ya se realizó un EDA & Feature Engineering y se codificaron los datos para el uso de Random Forest 
 
 4. DataTrainF.csv - contiene una copia del DataFrame dataTrain generado dentro del programa, en el cual ya se realizó un EDA & Feature Engineering y se codificaron los datos para el uso de Random Forest # ML_PI02
+
+5. PipelineRF.pkl - Contiene un modelo Random Forest entrenado con nuestro set de testeo
+
+6. PipelineTree - Contiene un modelo Decision Tree entrenado con nuestro set de testeo
